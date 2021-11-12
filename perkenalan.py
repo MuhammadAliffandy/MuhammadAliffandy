@@ -1,0 +1,10 @@
+Nama            = "Muhammad Aliffandy"
+Nim             = 212410102049
+Umur            = 19  
+tinggi_badan    = "170 cm"
+berat_badan     = "57 kg"
+print("Nama         =",Nama)
+print("NIM          =",Nim)
+print("Umur         =",Umur, "tahun")
+print("Tinggi badan =",tinggi_badan)
+print("Berat Badan  =",berat_badan)
