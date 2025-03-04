@@ -21,5 +21,5 @@
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadAliffandy&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ### 😂 Top Languange
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliffandy&layout=compact)
 
