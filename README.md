@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Aliffandy</h1>
-<h3 align="center">I'm Flutter , Java Script , and Fullstack Web Developer. I ever work in mini company to build some app with Flutter Framework and many project build with Javascript Algorihtm if this is a Web Apps.</h3>
+<h3 align="center">I'm Fullstack AI Engineer. I ever work in mini company to build some app with Flutter Framework and many project build with Javascript Algorihtm if this is a Web Apps.</h3>
 
 - 🌱 I’m currently learning **JS Tech & Flutter Mobile Tech**
 
