@@ -61,27 +61,4 @@ Currently shaping the future of digital experiences at the **Apple Developer Aca
 
 ---
 
-### 📊 GitHub Analytics
 
-<div align="center">
-  <!-- GitHub Trophies for gamification and eye-catching visual -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=MuhammadAliffandy&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
-</div>
-<br/>
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAliffandy&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-    </td>
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAliffandy&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliffandy&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
