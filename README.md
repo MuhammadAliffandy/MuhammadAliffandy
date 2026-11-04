@@ -63,10 +63,6 @@ Currently shaping the future of digital experiences at the **Apple Developer Aca
 
 ### 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhammadAliffandy&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="MuhammadAliffandy's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhammadAliffandy&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAliffandy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
@@ -74,12 +70,3 @@ Currently shaping the future of digital experiences at the **Apple Developer Aca
 
 ---
 
-### 👾 Contribution Activity
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAliffandy/MuhammadAliffandy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAliffandy/MuhammadAliffandy/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/MuhammadAliffandy/MuhammadAliffandy/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
