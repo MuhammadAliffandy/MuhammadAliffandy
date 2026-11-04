@@ -1,76 +1,35 @@
 <div align="center">
-  <!-- Dynamic Typing Effect for Header -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2563EB&center=true&vCenter=true&width=600&lines=Hi,+I'm+Muhammad+Aliffandy;Fullstack+AI+Engineer;iOS+%26+iPadOS+Developer;Building+Intelligent+Systems" alt="Typing SVG" />
-  
+
+  <!-- Dynamic Typing Header with Modern Cyber-Cyan Palette -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=38BDF8&center=true&vCenter=true&width=680&lines=Hi,+I'm+Muhammad+Aliffandy;On-Device+AI+%26+Vision+Systems+Architect;Apple+Developer+Academy+Scholar;Medical+AI+Engineer+at+PukulEnam" alt="Typing Header" />
+
   <p align="center">
-    <b>Bridging the gap between Medical AI infrastructure, Spatial Computing, and Seamless Interfaces.</b>
+    <b>Crafting real-time Edge AI on Apple Silicon (ANE), clinical neural systems, and native Apple ecosystem experiences.</b>
   </p>
 
   <p align="center">
-    <a href="mailto:aliffandyrealgo@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
     <a href="https://linkedin.com/in/muhammadaliffandy">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="mailto:aliffandyrealgo@gmail.com">
+      <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/MuhammadAliffandy">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <img src="https://img.shields.io/badge/Focus-Apple_Silicon_ANE_|_Edge_AI-059669?style=flat-square" alt="Focus" />
   </p>
+
 </div>
 
 ---
 
-### 🚀 Engineering Focus & Background
+### ⚡ At a Glance
 
-Currently shaping the future of digital experiences at the **Apple Developer Academy**, with a deep technical focus on healthcare innovation and native ecosystem integrations. 
-
-*   🧠 **Medical AI & LLMs:** Architecting clinical support systems, including **ColonoSense QA** (a hybrid LLM strategy utilizing local Llama 3.1 and cloud-based GPT-4o-mini) and advanced brain CT segmentation utilizing U-Net and equivariant neural networks (SE(2) group theory).
-*   🍏 **Apple Ecosystem Development:** Prioritizing native iPadOS frameworks (SwiftUI, PencilKit, ARKit, SceneKit). Currently building **Sketsain**, an application transforming human pose references into proportional line art using Vision 3D pose detection.
-*   📈 **Machine Learning Optimization:** Experienced in dataset oversampling, fine-tuning YOLOv11/v12 models for object detection (e.g., cocoa disease detection), and clustering evaluation (Silhouette Scores, Davies-Bouldin Index).
-*   💻 **Dual-Launch Compliance:** Implementing secure, client-ready authentication logic supporting both EHR and Standalone launch modes for SMART on FHIR Stage 2 compliance.
-
----
-
-### 🛠️ Technical Arsenal
-
-<details>
-  <summary><b>🤖 Artificial Intelligence & Machine Learning</b> (Click to Expand)</summary>
-  <br/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" /> 
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>📱 iOS & Cross-Platform Mobile</b> (Click to Expand)</summary>
-  <br/>
-  <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
-</details>
-
-<details>
-  <summary><b>🌐 Fullstack Web Architecture</b> (Click to Expand)</summary>
-  <br/>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" /> 
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" /> 
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-</details>
-
----
-
-### 👾 Contribution Graph Game
-
-<div align="center">
-  <!-- 
-    The 2D Snake game animation will be rendered here.
-    It automatically updates based on your daily GitHub contributions!
-  -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MuhammadAliffandy/MuhammadAliffandy/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MuhammadAliffandy/MuhammadAliffandy/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MuhammadAliffandy/MuhammadAliffandy/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+```yaml
+Name: Muhammad Aliffandy (Fandy)
+Current Roles:
+  - Apple Developer Academy Scholar (Batam, Indonesia)
+  - AI/ML Engineer @ PukulEnam
+Core Thesis: "Deploying high-throughput, privacy-first Deep Learning directly to edge silicon without cloud dependence."
+Current Coordinates: FastViT on Apple Neural Engine (ANE) · Vision Transformers · Clinical LLMs & Equivariant Networks
